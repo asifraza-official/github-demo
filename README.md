@@ -4,6 +4,7 @@ This is a static clone of Amazon's homepage created using pure HTML and CSS.
 It replicates the basic layout and design of the original Amazon UI for learning and practice purposes.
 <br>
 ## 📁 Project Structure
+<br>
 git-demo/ ├── amazon-clone/ │   ├── index.html │   └── style.css
 <br>
 
