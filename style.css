@@ -4,13 +4,6 @@
   border: border-box;
 }
 
-html, body {
-  overflow-x: hidden; 
-  /* overflow-y: auto; */
-  
-
-}
-
 /* NAVBAR 💕 //////////////////////////////////////////////////////////////// */
 
 .navbar {
