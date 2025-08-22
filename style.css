@@ -143,7 +143,15 @@ span {
   font-size: 0.9rem;
   font-weight: 700;
 }
+.panel-deals a {
+  text-decoration: none;
+  color: white;
+}
 .panel-ops a {
+  text-decoration: none;
+  color: white;
+}
+.panel-all a {
   text-decoration: none;
   color: white;
 }
@@ -340,5 +348,5 @@ ul a {
   padding: 3px;
 }
 .padding-second {
-  padding: 2px;
+  padding: 3px 3.5px;
 }
