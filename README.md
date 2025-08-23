@@ -26,7 +26,7 @@ No installation or server setup required.
 
 ## 🧑‍💻 Author
 
-Created by [asifraza-pfficial]  
+Created by [asifraza-official]  
 Feel free to fork, modify, or use it for learning purposes.
 
 
